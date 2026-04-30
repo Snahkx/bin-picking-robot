@@ -1,0 +1,5 @@
+tion.py
+[ WARN:0@2.133] global cap_gstreamer.cpp:2839 handleMessage OpenCV | GStreamer warning: Embedded video playback halted; module v4l2src0 reported: Failed to allocate required memory.
+[ WARN:0@2.133] global cap_gstreamer.cpp:1698 open OpenCV | GStreamer warning: unable to start pipeline
+[ WARN:0@2.133] global cap_gstreamer.cpp:1173 isPipelinePlaying OpenCV | GStreamer warning: GStreamer: pipeline have not been created
+Failed to grab frame
